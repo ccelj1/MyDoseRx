@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "852706085607",
+    "firebase_url": "https://esp32-iot-39031-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esp32-iot-39031",
+    "storage_bucket": "esp32-iot-39031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852706085607:android:a534e4c8486d259715f042",
+        "android_client_info": {
+          "package_name": "com.squires.mydoserx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfyKbPkq1-IEwgKdvD-bbSW4U7lUf5ln8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
